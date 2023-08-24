@@ -115,3 +115,11 @@ img#nota-100 {
       top: 710px; /* Ajusta a distância do topo */
       left: 230px; /* Ajusta a distância da esquerda */
   }
+
+img#nota-200 {
+      width: 200px; /* Defina o tamanho desejado */
+      height: auto; /* Mantém a proporção da imagem */
+      position: absolute; /* Posição absoluta para ajustar a posição */
+      top: 820px; /* Ajusta a distância do topo */
+      left: 230px; /* Ajusta a distância da esquerda */
+  }
