@@ -20,6 +20,24 @@ img#porquinho {
   
 
 
+img#moeda-1 {
+      width: 100px; /* Defina o tamanho desejado */
+      height: auto; /* Mantém a proporção da imagem */
+      position: absolute; /* Posição absoluta para ajustar a posição */
+      top: 410px; /* Ajusta a distância do topo */
+      left: 00px; /* Ajusta a distância da esquerda */
+  }
+
+img#moeda-50 {
+      width: 100px; /* Defina o tamanho desejado */
+      height: auto; /* Mantém a proporção da imagem */
+      position: absolute; /* Posição absoluta para ajustar a posição */
+      top: 410px; /* Ajusta a distância do topo */
+      left: 100px; /* Ajusta a distância da esquerda */
+  }
+
+
+
 img#nota-1 {
       width: 200px; /* Defina o tamanho desejado */
       height: auto; /* Mantém a proporção da imagem */
