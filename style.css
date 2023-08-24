@@ -123,3 +123,13 @@ img#nota-200 {
       top: 820px; /* Ajusta a distância do topo */
       left: 230px; /* Ajusta a distância da esquerda */
   }
+
+/* Estilos para a caixa de texto */
+input[type="text"] {
+      width: 300px; /* Largura da caixa de texto */
+      padding: 10px; /* Espaçamento interno */
+      border: 1px solid #ccc; /* Borda da caixa de texto */
+      border-radius: 4px; /* Arredondamento da borda */
+      font-size: 16px; /* Tamanho da fonte */
+  }
+  
