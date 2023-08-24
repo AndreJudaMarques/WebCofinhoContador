@@ -23,7 +23,7 @@ img#moeda-1 {
       width: 100px; /* Defina o tamanho desejado */
       height: auto; /* Mantém a proporção da imagem */
       position: absolute; /* Posição absoluta para ajustar a posição */
-      top: 410px; /* Ajusta a distância do topo */
+      top: 415px; /* Ajusta a distância do topo */
       left: 00px; /* Ajusta a distância da esquerda */
   }
 
@@ -31,7 +31,7 @@ img#moeda-50 {
       width: 70px; /* Defina o tamanho desejado */
       height: auto; /* Mantém a proporção da imagem */
       position: absolute; /* Posição absoluta para ajustar a posição */
-      top: 410px; /* Ajusta a distância do topo */
+      top: 415px; /* Ajusta a distância do topo */
       left: 100px; /* Ajusta a distância da esquerda */
   }
 
@@ -39,7 +39,7 @@ img#moeda-25 {
       width: 73px; /* Defina o tamanho desejado */
       height: auto; /* Mantém a proporção da imagem */
       position: absolute; /* Posição absoluta para ajustar a posição */
-      top: 410px; /* Ajusta a distância do topo */
+      top: 415px; /* Ajusta a distância do topo */
       left: 180px; /* Ajusta a distância da esquerda */
   }
 
@@ -47,7 +47,7 @@ img#moeda-5 {
       width: 80px; /* Defina o tamanho desejado */
       height: auto; /* Mantém a proporção da imagem */
       position: absolute; /* Posição absoluta para ajustar a posição */
-      top: 407px; /* Ajusta a distância do topo */
+      top: 413px; /* Ajusta a distância do topo */
       left: 260px; /* Ajusta a distância da esquerda */
   }
 
@@ -55,7 +55,7 @@ img#moeda-1c {
       width: 70px; /* Defina o tamanho desejado */
       height: auto; /* Mantém a proporção da imagem */
       position: absolute; /* Posição absoluta para ajustar a posição */
-      top: 414px; /* Ajusta a distância do topo */
+      top: 419px; /* Ajusta a distância do topo */
       left: 350px; /* Ajusta a distância da esquerda */
   }
 
@@ -135,7 +135,7 @@ img#nota-200 {
       /* Posicionamento */
       position: relative; /* Ativar o posicionamento relativo */
       top: 100px; /* Deslocamento vertical para baixo */
-      left: 400px; /* Deslocamento horizontal para a direita */
+      left: 350px; /* Deslocamento horizontal para a direita */
   }
   
   /* Estilos para o rótulo */
@@ -144,6 +144,7 @@ img#nota-200 {
       position: relative; /* Ativar o posicionamento relativo */
       top: 70px; /* Deslocamento vertical para baixo (mesma quantidade da caixa de texto) */
       left: 600px; /* Deslocamento horizontal para a direita (mesma quantidade da caixa de texto) */
+      font-size: 30px;
   }
   
   
