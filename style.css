@@ -3,7 +3,7 @@ img#porquinho {
       width: 300px; /* Defina o tamanho desejado */
       height: auto; /* Mantém a proporção da imagem */
       position: absolute; /* Posição absoluta para ajustar a posição */
-      top: 85px; /* Ajusta a distância do topo */
+      top: 100px; /* Ajusta a distância do topo */
       left: 00px; /* Ajusta a distância da esquerda */
   }
 
@@ -14,7 +14,7 @@ img#porquinho {
       height: 1.5px; /* Defina a espessura da linha */
       background-color: black; /* Cor da linha */
       margin: 20px 0; /* Espaçamento acima e abaixo da linha */
-      margin-top: 330px; /* Espaçamento acima da linha - ajuste esse valor */
+      margin-top: 300px; /* Espaçamento acima da linha - ajuste esse valor */
   }
   
 
@@ -125,7 +125,7 @@ img#nota-200 {
   }
 
 /* Estilos para a caixa de texto */
-input[type="text"] {
+.caixa-texto {
       width: 300px; /* Largura da caixa de texto */
       padding: 10px; /* Espaçamento interno */
       border: 1px solid #ccc; /* Borda da caixa de texto */
@@ -133,17 +133,17 @@ input[type="text"] {
       font-size: 16px; /* Tamanho da fonte */
       
       /* Posicionamento */
-    position: relative; /* Ativar o posicionamento relativo */
-    top: 20px; /* Deslocamento vertical para baixo */
-    left: 100px; /* Deslocamento horizontal para a direita */
-
-    /* Estilos para o rótulo */
-.label-caixa {
+      position: relative; /* Ativar o posicionamento relativo */
+      top: 100px; /* Deslocamento vertical para baixo */
+      left: 400px; /* Deslocamento horizontal para a direita */
+  }
+  
+  /* Estilos para o rótulo */
+  .label-caixa {
       /* Posicionamento */
       position: relative; /* Ativar o posicionamento relativo */
-      top: 20px; /* Deslocamento vertical para baixo (mesma quantidade da caixa de texto) */
-      left: 50px; /* Deslocamento horizontal para a direita (mesma quantidade da caixa de texto) */
+      top: 70px; /* Deslocamento vertical para baixo (mesma quantidade da caixa de texto) */
+      left: 600px; /* Deslocamento horizontal para a direita (mesma quantidade da caixa de texto) */
   }
-
-  }
+  
   
