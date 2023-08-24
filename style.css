@@ -1,4 +1,3 @@
-/* Estilos para a nota de 1 real */
 
 img#porquinho {
       width: 300px; /* Defina o tamanho desejado */
@@ -65,7 +64,7 @@ img#nota-1 {
       width: 200px; /* Defina o tamanho desejado */
       height: auto; /* Mantém a proporção da imagem */
       position: absolute; /* Posição absoluta para ajustar a posição */
-      top: 500px; /* Ajusta a distância do topo */
+      top: 506px; /* Ajusta a distância do topo */
       left: 00px; /* Ajusta a distância da esquerda */
   }
   
@@ -81,6 +80,30 @@ img#nota-5 {
       width: 200px; /* Defina o tamanho desejado */
       height: auto; /* Mantém a proporção da imagem */
       position: absolute; /* Posição absoluta para ajustar a posição */
-      top: 700px; /* Ajusta a distância do topo */
+      top: 710px; /* Ajusta a distância do topo */
       left: 00px; /* Ajusta a distância da esquerda */
+  }
+
+img#nota-10 {
+      width: 200px; /* Defina o tamanho desejado */
+      height: auto; /* Mantém a proporção da imagem */
+      position: absolute; /* Posição absoluta para ajustar a posição */
+      top: 820px; /* Ajusta a distância do topo */
+      left: 00px; /* Ajusta a distância da esquerda */
+  }
+
+img#nota-20 {
+      width: 200px; /* Defina o tamanho desejado */
+      height: auto; /* Mantém a proporção da imagem */
+      position: absolute; /* Posição absoluta para ajustar a posição */
+      top: 506px; /* Ajusta a distância do topo */
+      left: 230px; /* Ajusta a distância da esquerda */
+  }
+
+img#nota-50 {
+      width: 200px; /* Defina o tamanho desejado */
+      height: auto; /* Mantém a proporção da imagem */
+      position: absolute; /* Posição absoluta para ajustar a posição */
+      top: 600px; /* Ajusta a distância do topo */
+      left: 230px; /* Ajusta a distância da esquerda */
   }
