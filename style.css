@@ -69,3 +69,18 @@ img#nota-1 {
       left: 00px; /* Ajusta a distância da esquerda */
   }
   
+img#nota-2 {
+      width: 190px; /* Defina o tamanho desejado */
+      height: auto; /* Mantém a proporção da imagem */
+      position: absolute; /* Posição absoluta para ajustar a posição */
+      top: 600px; /* Ajusta a distância do topo */
+      left: 00px; /* Ajusta a distância da esquerda */
+  }
+  
+img#nota-5 {
+      width: 200px; /* Defina o tamanho desejado */
+      height: auto; /* Mantém a proporção da imagem */
+      position: absolute; /* Posição absoluta para ajustar a posição */
+      top: 700px; /* Ajusta a distância do topo */
+      left: 00px; /* Ajusta a distância da esquerda */
+  }
