@@ -29,7 +29,7 @@ img#moeda-1 {
   }
 
 img#moeda-50 {
-      width: 100px; /* Defina o tamanho desejado */
+      width: 70px; /* Defina o tamanho desejado */
       height: auto; /* Mantém a proporção da imagem */
       position: absolute; /* Posição absoluta para ajustar a posição */
       top: 410px; /* Ajusta a distância do topo */
