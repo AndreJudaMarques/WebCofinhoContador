@@ -93,7 +93,7 @@ img#nota-10 {
   }
 
 img#nota-20 {
-      width: 200px; /* Defina o tamanho desejado */
+      width: 190px; /* Defina o tamanho desejado */
       height: auto; /* Mantém a proporção da imagem */
       position: absolute; /* Posição absoluta para ajustar a posição */
       top: 506px; /* Ajusta a distância do topo */
@@ -104,6 +104,14 @@ img#nota-50 {
       width: 200px; /* Defina o tamanho desejado */
       height: auto; /* Mantém a proporção da imagem */
       position: absolute; /* Posição absoluta para ajustar a posição */
-      top: 600px; /* Ajusta a distância do topo */
+      top: 605px; /* Ajusta a distância do topo */
+      left: 230px; /* Ajusta a distância da esquerda */
+  }
+
+img#nota-100 {
+      width: 200px; /* Defina o tamanho desejado */
+      height: auto; /* Mantém a proporção da imagem */
+      position: absolute; /* Posição absoluta para ajustar a posição */
+      top: 710px; /* Ajusta a distância do topo */
       left: 230px; /* Ajusta a distância da esquerda */
   }
