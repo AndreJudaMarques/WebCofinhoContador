@@ -131,5 +131,19 @@ input[type="text"] {
       border: 1px solid #ccc; /* Borda da caixa de texto */
       border-radius: 4px; /* Arredondamento da borda */
       font-size: 16px; /* Tamanho da fonte */
+      
+      /* Posicionamento */
+    position: relative; /* Ativar o posicionamento relativo */
+    top: 20px; /* Deslocamento vertical para baixo */
+    left: 100px; /* Deslocamento horizontal para a direita */
+
+    /* Estilos para o rótulo */
+.label-caixa {
+      /* Posicionamento */
+      position: relative; /* Ativar o posicionamento relativo */
+      top: 20px; /* Deslocamento vertical para baixo (mesma quantidade da caixa de texto) */
+      left: 50px; /* Deslocamento horizontal para a direita (mesma quantidade da caixa de texto) */
+  }
+
   }
   
