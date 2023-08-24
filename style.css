@@ -52,6 +52,13 @@ img#moeda-5 {
       left: 260px; /* Ajusta a distância da esquerda */
   }
 
+img#moeda-1c {
+      width: 70px; /* Defina o tamanho desejado */
+      height: auto; /* Mantém a proporção da imagem */
+      position: absolute; /* Posição absoluta para ajustar a posição */
+      top: 414px; /* Ajusta a distância do topo */
+      left: 350px; /* Ajusta a distância da esquerda */
+  }
 
 
 img#nota-1 {
