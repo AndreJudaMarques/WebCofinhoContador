@@ -36,6 +36,22 @@ img#moeda-50 {
       left: 100px; /* Ajusta a distância da esquerda */
   }
 
+img#moeda-25 {
+      width: 73px; /* Defina o tamanho desejado */
+      height: auto; /* Mantém a proporção da imagem */
+      position: absolute; /* Posição absoluta para ajustar a posição */
+      top: 410px; /* Ajusta a distância do topo */
+      left: 180px; /* Ajusta a distância da esquerda */
+  }
+
+img#moeda-5 {
+      width: 80px; /* Defina o tamanho desejado */
+      height: auto; /* Mantém a proporção da imagem */
+      position: absolute; /* Posição absoluta para ajustar a posição */
+      top: 407px; /* Ajusta a distância do topo */
+      left: 260px; /* Ajusta a distância da esquerda */
+  }
+
 
 
 img#nota-1 {
