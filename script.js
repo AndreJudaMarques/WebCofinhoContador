@@ -4,9 +4,17 @@
 const moeda1 = document.getElementById('moeda-1');
 const moeda50 = document.getElementById('moeda-50');
 const moeda25 = document.getElementById('moeda-25');
+const moeda5 = document.getElementById('moeda-5');
+const moeda1c = document.getElementById('moeda1c');
 // ... (outros elementos das moedas)
 const nota1 = document.getElementById('nota-1');
 const nota2 = document.getElementById('nota-2');
+const nota5 = document.getElementById('nota-5');
+const nota10 = document.getElementById('nota-10');
+const nota20 = document.getElementById('nota-20');
+const nota50 = document.getElementById('nota-50');
+const nota100 = document.getElementById('nota-100');
+const nota200 = document.getElementById('nota-200');
 // ... (outros elementos das notas)
 
 // Obtém o elemento HTML da caixa de texto
