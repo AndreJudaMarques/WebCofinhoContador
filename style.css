@@ -149,6 +149,11 @@ img#nota-200 {
   
 /* Estilos para o botão Limpar */
 #botao-limpar {
+  display: block;
+  position: absolute; /* Usar posição absoluta */
+  top: 50%; /* Mover para metade da altura da seção main */
+  left: 50%; /* Mover para metade da largura da seção main */
+  transform: translate(-50%, -50%); /* Centralizar o botão */
   padding: 10px 20px;
   font-size: 16px;
   background-color: #f44336;
@@ -156,5 +161,5 @@ img#nota-200 {
   border: none;
   border-radius: 4px;
   cursor: pointer;
-  margin-top: 10px;
 }
+

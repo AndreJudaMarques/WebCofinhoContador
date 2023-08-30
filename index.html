@@ -11,9 +11,6 @@
     <header>
       <label for="caixa-texto" class="label-caixa">Valor Selecionado</label>
       <input type="text" id="caixa-de-texto" name="caixa-de-texto" class="caixa-texto">
-
-      <button id="botao-limpar" onclick="limparCaixaTexto()">Limpar</button>
-
       
       <h1>Contador de Dinheiro</h1>
         <img id="porquinho" src="imagemPorquinho\pigbank.png" alt="imagem do cofrinho">
@@ -21,6 +18,9 @@
     </header>
         
     <main>
+
+        <button id="botao-limpar" onclick="limparCaixaTexto()">Limpar</button>
+
         <section id="moedas">
             <!-- Caminho para a imagem é relativo à pasta do index.html -->
             <a href="javascript:void(0);" onclick="adicionarValor(1.00)">
