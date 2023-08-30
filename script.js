@@ -7,3 +7,12 @@ function adicionarValor(valor) {
       caixaDeTexto.value = (valorAtual + valor).toFixed(2);
   }
 
+// script.js
+
+// ... O restante do seu código ...
+
+// Função para limpar a caixa de texto
+function limparCaixaTexto() {
+    var caixaDeTexto = document.getElementById("caixa-de-texto");
+    caixaDeTexto.value = ""; // Define o valor da caixa de texto como vazio
+}
