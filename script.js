@@ -6,4 +6,4 @@ function adicionarValor(valor) {
       var valorAtual = parseFloat(caixaDeTexto.value) || 0;
       caixaDeTexto.value = (valorAtual + valor).toFixed(2);
   }
-  
+
