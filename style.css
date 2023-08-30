@@ -147,3 +147,14 @@ img#nota-200 {
       font-size: 30px;
   }
   
+/* Estilos para o botão Limpar */
+#botao-limpar {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #f44336;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
