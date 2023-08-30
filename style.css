@@ -48,15 +48,15 @@ img#moeda-5 {
       height: auto; /* Mantém a proporção da imagem */
       position: absolute; /* Posição absoluta para ajustar a posição */
       top: 413px; /* Ajusta a distância do topo */
-      left: 260px; /* Ajusta a distância da esquerda */
+      left: 340px; /* Ajusta a distância da esquerda */
   }
 
-img#moeda-1c {
-      width: 70px; /* Defina o tamanho desejado */
+img#moeda-10 {
+      width: 100px; /* Defina o tamanho desejado */
       height: auto; /* Mantém a proporção da imagem */
       position: absolute; /* Posição absoluta para ajustar a posição */
-      top: 419px; /* Ajusta a distância do topo */
-      left: 350px; /* Ajusta a distância da esquerda */
+      top: 405px; /* Ajusta a distância do topo */
+      left: 250px; /* Ajusta a distância da esquerda */
   }
 
 
@@ -146,5 +146,4 @@ img#nota-200 {
       left: 600px; /* Deslocamento horizontal para a direita (mesma quantidade da caixa de texto) */
       font-size: 30px;
   }
-  
   
